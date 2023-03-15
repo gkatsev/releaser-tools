@@ -26,7 +26,7 @@
   ],
   "license": "MIT",
   "main": "src/index.js",
-  "name": "conventional-github-releaser",
+  "name": "@gkatsev/conventional-github-releaser",
   "repository": {
     "type": "git",
     "url": "https://github.com/conventional-changelog/releaser-tools.git"
